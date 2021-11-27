@@ -1,3 +1,5 @@
+Es un TODO en el que se pueden agregar/eliminar/editar tareas. Cuenta con un check que informa la prioridad de la tarea y un botón de editar que permite cambiar su estado: de "pendiente" a "finalizado" o viceversa. Tambien se puede eliminar una tarea en particular y la info se guarda en local storage para no perder los ultimos cambios que se realizan.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
